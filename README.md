@@ -5,7 +5,8 @@ Here you can find the code to identify real-time emotion of a user using webcam.
 
 So simple.. Just extract the emotion.zip file and run the web.py or webcam.ipynb locally. 
 
-**Prerequisites  **
+**Prerequisites** 
+
 The python environment must have opencv and deepface installed. 
 
 Just run these commands first before going into the main file.
